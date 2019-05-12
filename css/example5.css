@@ -1,0 +1,16 @@
+/* This is comment */
+
+.logo {width:150px; }
+.heading {text-align: center;display: inline-block;}
+h1,h3,h4,h5,h6{color: red; font-size:25px;font-weight:bold;}
+p{color: black;}
+
+body{
+    background-image: url('../img/back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+
+}
+.blackcolor {color:black; font-size:20px; font-weight:normal; }
